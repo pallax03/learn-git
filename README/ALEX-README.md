@@ -5,6 +5,6 @@ proviamo a cambiare username
 usage example = git alexcommit -m ...
 
 # try 2) NON FUNZIONA
-config --local user.mail user.name
+config --local user.email user.name
 
 # try 3) 
